@@ -39,6 +39,29 @@ main {
   margin-top: 80px;
 }
 
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding: 10px;
+  text-align: center;
+}
+
+.imagem-div {
+  display: flex;
+  box-sizing: border-box;
+  flex-basis: 50%;
+  align-items: center;
+  justify-content: center;
+  padding: 0 5px 0 0;
+}
+
+.tabela-div {
+  box-sizing: border-box;
+  flex-basis: 50%;
+  padding: 0 0 0 5px;
+}
+
 #minha-foto {
   width: 250px;
   height: 250px;
@@ -50,6 +73,8 @@ table {
   padding: 10px;
   border: 1px solid rgb(137 146 155);
   border-radius: 20px;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 th {
@@ -66,6 +91,13 @@ td {
   text-align: center;
 }
 
+.lista-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding: 10px;
+}
+
 #licoes-aprendidas,
 #licoes-a-aprender {
   padding: 10px 10px 10px 40px;
@@ -77,8 +109,22 @@ li {
   padding: 5px;
 }
 
+
+#article-div {
+  box-sizing: border-box;
+  flex-basis: 50%;
+  padding: 0 5px 0 0;
+}
+
+#aside-div {
+  box-sizing: border-box;
+  flex-basis: 50%;
+  padding: 0 0 0 5px;
+}
+
 article,
 aside {
+  height: 90.5px;
   padding: 10px;
   border-radius: 20px;
   background-color: rgb(33 38 45);

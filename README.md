@@ -46,3 +46,7 @@ O rodapé utiliza a tag `footer` e possui o `id` `rodape`.
 ## 10. Inserido links externos na página
 
 Adicionado a tag `nav` ao `header` com links para redes sociais, os links estão atrelados aos icones das redes e redireciona o usuário para uma **nova** aba no navegador.
+
+## 11. Posicionado os elementos corretamente
+
+Os elementos `img` e `table` foram poscionados lado a lado, utilizando as propriedades `div` e `class`. O mesmo foi feito com as tags `ol` e `ul` e por fim `article` e `aside`.
