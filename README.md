@@ -18,7 +18,6 @@ A barra superior utiliza a tag `header` e possui o `id` igual a `cabecalho`. O t
 
 A imagem foi inserida utilizando a tag `img` com o `id` `minha-foto`.
 
-
 ## 4. Adicionada uma tabela à página
 
 Foi inserido uma tabela utilizando a tag `table` com o `id` `tabela`.
@@ -45,11 +44,11 @@ O rodapé utiliza a tag `footer` e possui o `id` `rodape`.
 
 ## 10. Inserido links externos na página
 
-Adicionado a tag `nav` ao `header` com links para redes sociais, os links estão atrelados aos icones das redes e redireciona o usuário para uma **nova** aba no navegador.
+Adicionado a tag `nav` ao `header` com links para redes sociais, os links estão atrelados aos ícones das redes e redireciona o usuário para uma **nova** aba no navegador.
 
 ## 11. Posicionado os elementos corretamente
 
-Os elementos `img` e `table` foram poscionados lado a lado, utilizando as propriedades `div` e `class`. O mesmo foi feito com as tags `ol` e `ul` e por fim `article` e `aside`.
+Os elementos `img` e `table` foram posicionados lado a lado, utilizando as propriedades `div` e `class`. O mesmo foi feito com as tags `ol` e `ul` e por fim `article` e `aside`.
 
 ## 12. Alterado atributos relacionados às fontes
 
