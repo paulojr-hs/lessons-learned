@@ -45,3 +45,13 @@ td {
   background-color: rgb(33 38 45);
   text-align: center;
 }
+
+#licoes-aprendidas {
+  padding: 10px 10px 10px 40px;
+  border-radius: 20px;
+  background-color: rgb(33 38 45);
+}
+
+li {
+  padding: 5px;
+}

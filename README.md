@@ -22,3 +22,7 @@ A imagem foi inserida utilizando a tag `img` com o `id` `minha-foto`.
 ## 4. Adicionada uma tabela à página
 
 Foi inserido uma tabela utilizando a tag `table` com o `id` `tabela`.
+
+## 5. Criada uma lista de lições aprendidas
+
+A lista possui `10 itens`, é numerada e possui o `id` `licoes-aprendidas`.
