@@ -25,3 +25,23 @@ main {
   border: 2px solid rgb(137 146 155);
   border-radius: 9999px;
 }
+
+table {
+  padding: 10px;
+  border: 1px solid rgb(137 146 155);
+  border-radius: 20px;
+}
+
+th {
+  padding: 0 10px 10px;
+  font-size: 20px;
+  text-align: center;
+}
+
+td {
+  width: 180px;
+  padding: 10px;
+  border-radius: 20px;
+  background-color: rgb(33 38 45);
+  text-align: center;
+}

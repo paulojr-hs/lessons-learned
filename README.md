@@ -17,3 +17,8 @@ A barra superior utiliza a tag `header` e possui o `id` igual a `cabecalho`. O t
 ## 3. Inserido uma imagem na página
 
 A imagem foi inserida utilizando a tag `img` com o `id` `minha-foto`.
+
+
+## 4. Adicionada uma tabela à página
+
+Foi inserido uma tabela utilizando a tag `table` com o `id` `tabela`.
