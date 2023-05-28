@@ -13,3 +13,7 @@ Foi inserida a propriedade `background-color` com o valor `rgb(13 17 23)`.
 ## 2. Adicionado uma barra superior com um título
 
 A barra superior utiliza a tag `header` e possui o `id` igual a `cabecalho`. O título está dentro da barra e utiliza a tag `h1` com `id` igual a `titulo`.
+
+## 3. Inserido uma imagem na página
+
+A imagem foi inserida utilizando a tag `img` com o `id` `minha-foto`.

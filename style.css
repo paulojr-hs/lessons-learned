@@ -14,3 +14,14 @@ body {
   height: 80px;
   background-color: rgb(22 27 34);
 }
+
+main {
+  margin-top: 80px;
+}
+
+#minha-foto {
+  width: 250px;
+  height: 250px;
+  border: 2px solid rgb(137 146 155);
+  border-radius: 9999px;
+}
