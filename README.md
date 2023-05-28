@@ -50,3 +50,7 @@ Adicionado a tag `nav` ao `header` com links para redes sociais, os links estão
 ## 11. Posicionado os elementos corretamente
 
 Os elementos `img` e `table` foram poscionados lado a lado, utilizando as propriedades `div` e `class`. O mesmo foi feito com as tags `ol` e `ul` e por fim `article` e `aside`.
+
+## 12. Alterado atributos relacionados às fontes
+
+Modificado o estilo da tipografia, alterando `font-size`, `color`, `line-height` e a `font-family`.
