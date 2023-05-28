@@ -34,3 +34,7 @@ A lista possui `10 itens`, não é numerada e possui o `id` `licoes-a-aprender`.
 ## 7. Criado um artigo sobre o meu aprendizado
 
 O artigo utiliza a tag `article` e possui mais de 300 caracteres e menos de 600.
+
+## 8. Criada uma tag aside que contém uma breve descrição sobre Git
+
+A tag `aside` possui mais de 100 caracteres e menos de 300.

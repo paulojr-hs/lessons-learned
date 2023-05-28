@@ -57,7 +57,8 @@ li {
   padding: 5px;
 }
 
-article {
+article,
+aside {
   padding: 10px;
   border-radius: 20px;
   background-color: rgb(33 38 45);
