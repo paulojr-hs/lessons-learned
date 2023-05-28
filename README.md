@@ -54,3 +54,7 @@ Os elementos `img` e `table` foram poscionados lado a lado, utilizando as propri
 ## 12. Alterado atributos relacionados às fontes
 
 Modificado o estilo da tipografia, alterando `font-size`, `color`, `line-height` e a `font-family`.
+
+## 13. Alterado o Box model
+
+Alterado `margin`, `padding` e `border` dos elementos para ver, na prática, como esses atributos influenciam e melhoram a visualização dos componentes.
