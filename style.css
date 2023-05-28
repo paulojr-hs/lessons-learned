@@ -46,7 +46,8 @@ td {
   text-align: center;
 }
 
-#licoes-aprendidas {
+#licoes-aprendidas,
+#licoes-a-aprender {
   padding: 10px 10px 10px 40px;
   border-radius: 20px;
   background-color: rgb(33 38 45);

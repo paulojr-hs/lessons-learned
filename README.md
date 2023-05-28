@@ -26,3 +26,7 @@ Foi inserido uma tabela utilizando a tag `table` com o `id` `tabela`.
 ## 5. Criada uma lista de lições aprendidas
 
 A lista possui `10 itens`, é numerada e possui o `id` `licoes-aprendidas`.
+
+## 6. Criada uma lista de lições que ainda desejo aprender
+
+A lista possui `10 itens`, não é numerada e possui o `id` `licoes-a-aprender`.
