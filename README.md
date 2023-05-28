@@ -38,3 +38,7 @@ O artigo utiliza a tag `article` e possui mais de 300 caracteres e menos de 600.
 ## 8. Criada uma tag aside que contém uma breve descrição sobre Git
 
 A tag `aside` possui mais de 100 caracteres e menos de 300.
+
+## 9. Adicionado um rodapé para a página
+
+O rodapé utiliza a tag `footer` e possui o `id` `rodape`.
