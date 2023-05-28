@@ -9,3 +9,7 @@ Nesse projeto, coloco em prática o que aprendi de HTML, CSS, Git e GitHub, desd
 ## 1. Adicionado uma cor de fundo específica para a página
 
 Foi inserida a propriedade `background-color` com o valor `rgb(13 17 23)`.
+
+## 2. Adicionado uma barra superior com um título
+
+A barra superior utiliza a tag `header` e possui o `id` igual a `cabecalho`. O título está dentro da barra e utiliza a tag `h1` com `id` igual a `titulo`.
