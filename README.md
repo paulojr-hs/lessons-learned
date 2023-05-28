@@ -42,3 +42,7 @@ A tag `aside` possui mais de 100 caracteres e menos de 300.
 ## 9. Adicionado um rodapé para a página
 
 O rodapé utiliza a tag `footer` e possui o `id` `rodape`.
+
+## 10. Inserido links externos na página
+
+Adicionado a tag `nav` ao `header` com links para redes sociais, os links estão atrelados aos icones das redes e redireciona o usuário para uma **nova** aba no navegador.
