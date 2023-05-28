@@ -58,3 +58,5 @@ Modificado o estilo da tipografia, alterando `font-size`, `color`, `line-height`
 ## 13. Alterado o Box model
 
 Alterado `margin`, `padding` e `border` dos elementos para ver, na prática, como esses atributos influenciam e melhoram a visualização dos componentes.
+
+## 14. Testado a semântica da página usando o site [CodeSniffer](https://squizlabs.github.io/HTML_CodeSniffer/)
