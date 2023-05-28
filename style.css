@@ -56,3 +56,9 @@ td {
 li {
   padding: 5px;
 }
+
+article {
+  padding: 10px;
+  border-radius: 20px;
+  background-color: rgb(33 38 45);
+}

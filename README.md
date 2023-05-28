@@ -30,3 +30,7 @@ A lista possui `10 itens`, é numerada e possui o `id` `licoes-aprendidas`.
 ## 6. Criada uma lista de lições que ainda desejo aprender
 
 A lista possui `10 itens`, não é numerada e possui o `id` `licoes-a-aprender`.
+
+## 7. Criado um artigo sobre o meu aprendizado
+
+O artigo utiliza a tag `article` e possui mais de 300 caracteres e menos de 600.
